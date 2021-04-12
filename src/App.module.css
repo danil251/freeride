@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  height: 50px;
+  background-color: mediumblue;
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px 30px;
+}
+.btn {
+  padding: 10px 20px;
+  margin-left: 15px;
+}
+.name {
+  color: #fff;
+}

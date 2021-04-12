@@ -1,0 +1,22 @@
+.form {
+    border: 1px solid #000;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.input {
+    margin: 10px 0;
+    height: 30px;
+    padding: 5px;
+}
+.logIn {
+    width: 150px;
+    height: 40px;
+}
+.error {
+    margin: 5px;
+}
